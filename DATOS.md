@@ -1,7 +1,2 @@
 # Fichero de prueba  
-
-Esto es un fichero de prueba que se subira de forma visual en GitHub para mas tarde descargar los datos en el repositorio local  
-Se agrega un nuevo cambio en github
----
-Esto es un cambio  
-que se realiza desde mi repositorio local
+Se empieza de cero ya que la he liado
